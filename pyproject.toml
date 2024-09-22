@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "csa-lab3"
+version = "0.1.0"
+description = "test by soska"
+authors = ["soska <soska2318@itmo.ru>"]
+license = "itmo license"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
