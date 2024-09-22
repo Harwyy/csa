@@ -1,9 +1,8 @@
 [tool.poetry]
-name = "csa-lab3"
+name = "csa-lab3-aka-test-for-github"
 version = "0.1.0"
-description = "test by soska"
+description = ""
 authors = ["soska <soska2318@itmo.ru>"]
-license = "itmo license"
 readme = "README.md"
 
 [tool.poetry.dependencies]
