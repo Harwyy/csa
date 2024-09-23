@@ -1,9 +1,10 @@
 def test_upper():
-    assert 'foo'.upper() == 'FOO'
+    assert "foo".upper() == "FOO"
 
 
 def test_isupper():
-    assert 'FOO'.isupper()
+    assert "FOO".isupper()
+
 
 def test_failed_upper():
-    assert 'fo'.upper() == 'FO'
+    assert "fo".upper() == "FO"
